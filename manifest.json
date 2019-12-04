@@ -14,7 +14,6 @@
   "builders": {
     "react": "3.x",
     "store": "0.x",
-    "pixel": "0.x",
     "docs": "0.x"
   },
   "dependencies": {
