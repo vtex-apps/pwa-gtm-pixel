@@ -13,7 +13,7 @@ or
 Run the following command:
 
 ```sh
-vtex install vtex.pwa-gtm-pixel@0.0
+vtex install vtex.pwa-gtm-pixel@1.x
 ```
 
 ## Google Tag Manager Setup
