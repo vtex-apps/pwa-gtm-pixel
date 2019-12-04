@@ -1,6 +1,6 @@
 # Sobre 
 
-PWA Google Tag Manager é uma extensão da [Google Tag Manager App](https://github.com/vtex-apps/google-tag-manager) para rastreamento das atividades relacionadas a PWA dos visitantes de seu ecommerce. Ferramenta usada para avaliar a eficiência de seus anúncios.
+PWA Google Tag Manager é uma extensão da [Google Tag Manager App](https://github.com/vtex-apps/google-tag-manager) para rastreamento das atividades relacionadas a PWA dos visitantes de seu e-commerce. Ferramenta usada para avaliar a eficiência de seus anúncios.
 Para ver todos os lançamentos, [acesse o changelog](https://github.com/vtex-apps/pwa-gtm-pixel/blob/master/CHANGELOG.md)
 
 ## Funcionalidades

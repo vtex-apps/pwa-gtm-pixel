@@ -111,7 +111,9 @@ export interface ProductImpressionData extends EventData {
 export interface InstallWebAppData extends EventData {
   event: 'installWebApp',
   eventName: 'vtex:installWebApp'
-  userChoice: string
+  userChoice:
+    | 'accepted'
+    | 'dismissed'
 }
 
 
