@@ -116,7 +116,6 @@ export interface InstallWebAppData extends EventData {
     | 'dismissed'
 }
 
-
 interface CartItem {
   skuId: string
   variant: string
