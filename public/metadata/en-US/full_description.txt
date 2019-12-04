@@ -1,0 +1,12 @@
+## About
+
+PWA Google Tag Manager Pixel is an extension of the [Google Tag Manager App](https://github.com/vtex-apps/google-tag-manager) for tracking the activities PWA related of visitors to your ecommerce.
+To see all the releases, [access the changelog](https://github.com/vtex-apps/pwa-gtm-pixel/blob/master/CHANGELOG.md)
+
+## Features 
+
+- Integration of PWA Events on your VTEX store with Google Analytics.
+
+## How to configure
+
+Learn more about the app [on the Github README.](https://github.com/vtex-apps/pwa-gtm-pixel/blob/master/README.md)
