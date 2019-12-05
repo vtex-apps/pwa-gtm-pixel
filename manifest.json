@@ -1,7 +1,7 @@
 {
   "name": "pwa-gtm-pixel",
   "vendor": "vtex",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "title": "PWA Google Tag Manager Pixel",
   "description": "VTEX App that integrates PWA events with Google-tag-manager",
   "billingOptions": {
