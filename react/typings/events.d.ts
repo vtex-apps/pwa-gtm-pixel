@@ -10,6 +10,7 @@ export interface PixelMessage extends MessageEvent {
     | HomePageInfo
     | ProductPageInfoData
     | SearchPageInfoData
+    | InstallWebAppData
 }
 
 export interface EventData {
@@ -105,6 +106,14 @@ export interface ProductImpressionData extends EventData {
   product?: ProductSummary // deprecated, use impressions list!
   position?: number // deprecated, use impressions list!
   list: string
+}
+
+export interface InstallWebAppData extends EventData {
+  event: 'installWebApp',
+  eventName: 'vtex:installWebApp'
+  userChoice:
+    | 'accepted'
+    | 'dismissed'
 }
 
 interface CartItem {

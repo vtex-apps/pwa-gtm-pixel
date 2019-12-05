@@ -1,9 +1,9 @@
 {
-  "name": "YOUR APP NAME",
+  "name": "pwa-gtm-pixel",
   "vendor": "vtex",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "PWA Google Tag Manager Pixel",
+  "description": "VTEX App that integrates PWA events with Google-tag-manager",
   "billingOptions": {
     "termsURL": "",
     "support": {
@@ -14,22 +14,10 @@
   "builders": {
     "react": "3.x",
     "store": "0.x",
-    "pixel": "0.x",
     "docs": "0.x"
   },
   "dependencies": {
     "vtex.pixel-interfaces": "1.x"
-  },
-  "settingsSchema": {
-    "title": "YOUR APP NAME",
-    "type": "object",
-    "properties": {
-      "gtmId": {
-        "title": "SAMPLE FIELD",
-        "description": "Enter the ID (GTM-XXXX) from your Google Tag Manager",
-        "type": "string"
-      }
-    }
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
